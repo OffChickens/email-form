@@ -1,0 +1,10 @@
+.resize {
+    width: 100vw;
+    margin-bottom: 20px;
+}
+
+.resize-area {
+    width: 100vw;
+    height: 150px;
+    margin-bottom: 20px;
+}
